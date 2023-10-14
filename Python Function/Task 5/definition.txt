@@ -1,0 +1,41 @@
+1. Write a python program for performing following operations and display results after each
+operation:
+(i) Create dictionary with details of 5 students : Rollno, name, semester, course, percentage.
+(ii) Update semester of student3 to 2.
+(iii) Delete the data of 4th student.
+(iv) Copy this dictionary to dict2
+(v) Display the length of both the dictionaries
+
+2. Create a dictionary with key as country and their capitals as values with 5 countries spain,
+france, germany, norway. Perform the following operations on this dictionary.
+(i) Print the capital of germany
+(ii) Remove norway and its capital from dictionary
+(iii) Take one country from user and print the index if it is present else print it is not present
+in the dictionary.
+(iv) Add India with capital in the dictionary
+
+3. Write a menu driven program to implement the stack with operations push,pop and display.
+
+4. Write a menu driven program to implement the queue with operations insertion , deletion
+and display.
+
+5. Write a python program to demonstrate the concept of default arguments. Take the
+employee data from user: name, department and basic_salary. Write a function to to
+calculate total salary of the employee where total salary is sum of basic salary, DA and
+HRA. DA is 10% of basic salary and HRA is 15% of basic salary. If basic salary is missing,
+take default argument of basic salary as Rs. 9000.
+
+6. Take two values of feet and inches from user. Create a function to add the values of feet
+with feet and inch with inch. Display the valid total result. (Inch should not be more than
+11).
+
+7. Write a function to find whether the number is armstrong number or not.
+
+8. Write a function to add the values of two list and store that in third list and display the
+result.
+
+9. Write a recursive function taking one integer argument, if argument is zero return zero else
+return sum of all the predecessor of that argument.
+
+10. Write a recursive function for printing the fibonacci series. The argument n will be passed
+to the function, where n is number of terms in the series
