@@ -1,0 +1,11 @@
+var = input("Enter the string ")
+
+print("capitalize is ",var.capitalize())
+print("center ",var.center(50))
+print("count ",var.count("s"))
+print("find ",var.find("tejasv"))
+print("Upper ", var.upper())
+print("Lower ",var.lower())
+print("replce ",var.replace("Tejasv","kush"))
+print("Split ",var.split())
+print("Swap-case", var.swapcase())
