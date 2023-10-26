@@ -1,0 +1,1 @@
+# Write a Python program that concatenates the contents of two text files into a single output file.
