@@ -16,9 +16,9 @@ i1=input("Enter the country")
 flag=0 
 for i in dict1['capital']:
 	if(i==i1):
-	 print(dict1['capital'][i])
-	 flag=1
-	 break 
+		print(dict1['capital'][i])
+		flag=1
+		break 
 
 if(flag==0):
 	print("country is not present in dictionary")
